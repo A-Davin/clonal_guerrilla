@@ -8,6 +8,7 @@ This repository contains the numerical codes used in the paper:
 SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5392061
 
 The model builds upon the vegetation–water framework introduced by Gilad et al. (2004, 2006, 2007), and extends it to investigate the effects of clonal growth strategies on spatial pattern formation.
+The scripts for numerical simulations are derived from the repository https://github.com/jhardenberg/bwh/tree/main
 
 ---
 
